@@ -933,3 +933,7 @@ Shannon Pro is Keygraph's all-in-one AppSec platform. For organizations that nee
 <p align="center">
   <b>Built by <a href="https://keygraph.io">Keygraph</a></b>
 </p>
+
+## Further Reading
+
+- [Secure Self-Hosted LLM: Enterprise Practices at Home](https://orthogonal.info/secure-self-hosted-llm-enterprise-practices-at-home/) — Best practices for deploying and securing self-hosted LLM infrastructure
